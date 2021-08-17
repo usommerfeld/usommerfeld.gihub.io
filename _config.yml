@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Sommerfeld Kunst
 email: ""
-description: "Photo Journal"
+description: "Artist Journal"
 url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name: Ursula Sommerfeld
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: photography website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "hhttps://usommerfeld.github.io/photorama/gallery/"
+  - JOURNAL: "hhttps://usommerfeld.github.io/photorama/journal/"
+  - ABOUT: "hhttps://usommerfeld.github.io/photorama/about/"
 
 # All translation keys
 translations:
@@ -56,9 +56,10 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins: [jekyll-paginate]
 
 # SiteMap
 sitemap:

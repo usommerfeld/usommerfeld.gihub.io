@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PHOTORAMA</title>
-    <description>Photo Journal</description>
-    <link>https://sunbliss.github.io/photorama/</link>
-    <atom:link href="https://sunbliss.github.io/photorama/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Aug 2021 18:12:54 +0200</pubDate>
-    <lastBuildDate>Tue, 17 Aug 2021 18:12:54 +0200</lastBuildDate>
+    <title>Sommerfeld Kunst</title>
+    <description>Artist Journal</description>
+    <link>/127.0.0.1:4000//</link>
+    <atom:link href="/127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 17 Aug 2021 19:00:18 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Aug 2021 19:00:18 +0200</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/Alice-in-Wonderland/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/Alice-in-Wonderland/</guid>
+        <link>/127.0.0.1:4000//journal/Alice-in-Wonderland/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/Alice-in-Wonderland/</guid>
         
         <category>tag01</category>
         
@@ -69,8 +69,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/The-Scarlet-Plague/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/The-Scarlet-Plague/</guid>
+        <link>/127.0.0.1:4000//journal/The-Scarlet-Plague/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/The-Scarlet-Plague/</guid>
         
         <category>tag03</category>
         
@@ -108,8 +108,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/The-Wizard-of-Oz/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/The-Wizard-of-Oz/</guid>
+        <link>/127.0.0.1:4000//journal/The-Wizard-of-Oz/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/The-Wizard-of-Oz/</guid>
         
         <category>tag03</category>
         
@@ -145,8 +145,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/At-the-Earth's-Core/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/At-the-Earth's-Core/</guid>
+        <link>/127.0.0.1:4000//journal/At-the-Earth's-Core/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/At-the-Earth's-Core/</guid>
         
         <category>tag01</category>
         
@@ -166,8 +166,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/Moby-Dick/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/Moby-Dick/</guid>
+        <link>/127.0.0.1:4000//journal/Moby-Dick/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/Moby-Dick/</guid>
         
         <category>tag02</category>
         
@@ -201,8 +201,8 @@
 &lt;p&gt;Placeholder text by &lt;a href=&quot;http://www.fillerati.com/&quot;&gt;Fillerati&lt;/a&gt;. Photography by &lt;a href=&quot;https://unsplash.com&quot;&gt;UNSPLASH&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/Around-the-World-in-80-Days/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/Around-the-World-in-80-Days/</guid>
+        <link>/127.0.0.1:4000//journal/Around-the-World-in-80-Days/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/Around-the-World-in-80-Days/</guid>
         
         <category>tag03</category>
         
@@ -265,8 +265,8 @@
 &lt;p&gt;&lt;a href=&quot;http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg&quot;&gt;Featured Image Source&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/images-size-for-better-performance/</guid>
+        <link>/127.0.0.1:4000//journal/images-size-for-better-performance/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/images-size-for-better-performance/</guid>
         
         
       </item>
@@ -304,8 +304,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g01/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g01/bg1.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -323,8 +323,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g01/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g01/bg2.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -342,8 +342,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g01/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g01/bg3.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -374,8 +374,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g02/bg1.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g02/bg1.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -393,8 +393,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g02/bg2.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g02/bg2.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -412,8 +412,8 @@
 
 	&lt;header class=&quot;gallery-icon&quot;&gt;
 
-&lt;a href=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
-&lt;img src=&quot;https://sunbliss.github.io/photorama/img/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/127.0.0.1:4000//img/galleries/g02/bg3.jpg&quot; class=&quot;popup&quot; title=&quot;IMAGE TITLE&quot; data-caption=&quot;© photorama&quot;&gt;
+&lt;img src=&quot;/127.0.0.1:4000//img/galleries/g02/bg3.jpg&quot; /&gt;&lt;/a&gt;
 						
 	&lt;/header&gt;	
 		
@@ -439,8 +439,8 @@ Photography by: &lt;a href=&quot;https://unsplash.com/photos/j0g8taxHZa0&quot;&g
 &lt;/body&gt;&lt;/html&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
-        <link>https://sunbliss.github.io/photorama/journal/multiple-galleries/</link>
-        <guid isPermaLink="true">https://sunbliss.github.io/photorama/journal/multiple-galleries/</guid>
+        <link>/127.0.0.1:4000//journal/multiple-galleries/</link>
+        <guid isPermaLink="true">/127.0.0.1:4000//journal/multiple-galleries/</guid>
         
         
       </item>
